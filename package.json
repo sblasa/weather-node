@@ -1,0 +1,22 @@
+{
+  "name": "weather-node",
+  "version": "1.0.0",
+  "description": "weather app done in node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sblasa/weather-node.git"
+  },
+  "author": "sblasa",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sblasa/weather-node/issues"
+  },
+  "homepage": "https://github.com/sblasa/weather-node#readme",
+  "dependencies": {
+    "request": "^2.83.0"
+  }
+}
